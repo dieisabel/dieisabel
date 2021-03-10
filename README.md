@@ -2,4 +2,5 @@
 
 - 🐍 Python lover
 - 🌱 I’m currently learning Web Development
-- Current project: proggy
+- 💠 Interested in Embedded Development
+- 💻 Currently working on Proggy
