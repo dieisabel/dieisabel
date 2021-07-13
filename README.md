@@ -4,7 +4,6 @@
 
 - 🐍 Python lover
 - 🌱 I’m currently learning Web Development
-- 💻 Currently working on [**Project Finder**](https://github.com/dieisabel/projectfinder)
 
 ### Projects
 
