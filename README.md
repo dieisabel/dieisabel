@@ -21,3 +21,8 @@ or go to the [**Repositories**](https://github.com/dieisabel?tab=repositories) t
 ### Connect with me
 
 [<img src="./assets/icons/linkedin.png" alt="LinkedIn" width="33px">](https://www.linkedin.com/in/konstkadyr/)
+
+---
+
+[![dieisabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dieisabel&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
