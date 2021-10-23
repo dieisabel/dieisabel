@@ -6,10 +6,12 @@ A beginner engineer who is constantly striving to become better, to know more. E
 
 ### Skills
 
-<img src="./assets/icons/python.png" width="30px">
-<img src="./assets/icons/linux.png" width="30px">
-<img src="./assets/icons/database.png" width="30px">
-<img src="./assets/icons/django.jpg" width="30px">
+<img align="left" src="./assets/icons/python.png" width="33px">
+<img align="left" src="./assets/icons/linux.png" width="33px">
+<img align="left" src="./assets/icons/database.png" width="33px">
+<img align="left" src="./assets/icons/django.jpg" width="33px">
+
+<br />
 
 ### Projects
 
@@ -18,4 +20,4 @@ or go to the [**Repositories**](https://github.com/dieisabel?tab=repositories) t
 
 ### Connect with me
 
-[<img src="./assets/icons/linkedin.png" alt="LinkedIn" width="30px">](https://www.linkedin.com/in/konstkadyr/)
+[<img src="./assets/icons/linkedin.png" alt="LinkedIn" width="33px">](https://www.linkedin.com/in/konstkadyr/)
