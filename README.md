@@ -8,6 +8,7 @@ A beginner engineer who is constantly striving to become better, to know more. E
 
 <img align="left" src="./assets/icons/python.png" width="33px">
 <img align="left" src="./assets/icons/linux.png" width="33px">
+<img align="left" src="./assets/icons/git.png" width="33px">
 <img align="left" src="./assets/icons/database.png" width="33px">
 <img align="left" src="./assets/icons/django.jpg" width="33px">
 
