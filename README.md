@@ -19,9 +19,10 @@ A beginner engineer who is constantly striving to become better, to know more. E
 You can look at my projects by going to the [**portfolio**](https://github.com/dieisabel/portfolio),
 or go to the [**Repositories**](https://github.com/dieisabel?tab=repositories) tab and see everything by yourself.
 
-### Connect with me
+### Links
 
 [<img src="./assets/icons/linkedin.png" alt="LinkedIn" width="33px">](https://www.linkedin.com/in/konstkadyr/)
+[<img src="./assets/icons/codewars.svg" alt="Codewars" width="33px">](https://www.codewars.com/users/dieisabel)
 
 ---
 
