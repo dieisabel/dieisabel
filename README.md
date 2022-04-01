@@ -1,30 +1,12 @@
-# Hi there 👋
+### Hi, I'm Kostiantyn 👋
 
-### About me
+Mainly develop projects on Python, but always open to learning new things and areas.
 
-A beginner engineer who is constantly striving to become better, to know more. Every day I work on my own projects, studying new technologies. Interested in Linux, DevOps, Back-end and Embedded (just hobby).
+If you curious about my work, you can see my [portfolio](https://github.com/dieisabel/portfolio)
+or go to the [repositories](https://github.com/dieisabel?tab=repositories) tab and see everything
+by yourself.
 
-### Skills
-
-<img align="left" src="./assets/icons/python.png" width="33px">
-<img align="left" src="./assets/icons/linux.png" width="33px">
-<img align="left" src="./assets/icons/git.png" width="33px">
-<img align="left" src="./assets/icons/database.png" width="33px">
-<img align="left" src="./assets/icons/django.jpg" width="33px">
-
-<br />
-
-### Projects
-
-You can look at my projects by going to the [**portfolio**](https://github.com/dieisabel/portfolio),
-or go to the [**Repositories**](https://github.com/dieisabel?tab=repositories) tab and see everything by yourself.
-
-### Links
-
-[<img src="./assets/icons/linkedin.png" alt="LinkedIn" width="33px">](https://www.linkedin.com/in/konstkadyr/)
-[<img src="./assets/icons/codewars.svg" alt="Codewars" width="33px">](https://www.codewars.com/users/dieisabel)
-
----
-
-[![dieisabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dieisabel&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+You can find me on:
+- [GitHub](https://github.com/dieisabel)
+- [LinkedIn](https://www.linkedin.com/in/konstkadyr/)
+- Or by email konstkadyr@gmail.com
