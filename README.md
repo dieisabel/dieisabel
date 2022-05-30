@@ -1,10 +1,6 @@
 ### Hi, I'm Kostiantyn 👋
 
-Mainly develop projects on Python, but always open to learning new things and areas.
-
-If you curious about my work, you can see my [portfolio](https://github.com/dieisabel/portfolio)
-or go to the [repositories](https://github.com/dieisabel?tab=repositories) tab and see everything
-by yourself.
+I thirst for knowledge and want to do a lot of things, but as usual, nothing works.
 
 You can find me on:
 - [GitHub](https://github.com/dieisabel)
